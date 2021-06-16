@@ -6,5 +6,5 @@
 3. 아래 이미지와 같이 해당 github의 주소를 입력한다.
 ![image](https://user-images.githubusercontent.com/24563098/122162661-e2d25a80-ceae-11eb-8c08-3a284848efdf.png)
 
-4.교통_재난분자 문서.ipynb를 클릭하면 ipython notebook의 동작을 해볼 수 있고, 그 결과 또한 확인 가능하다.
+4.교통_재난문자 분석.ipynb를 클릭하면 ipython notebook의 동작을 해볼 수 있고, 그 결과 또한 확인 가능하다.
 ![image](https://user-images.githubusercontent.com/24563098/122162791-11503580-ceaf-11eb-8c90-2726ac26c993.png)
